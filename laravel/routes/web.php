@@ -19,3 +19,5 @@ Route::get('/home', function () {
 });
 
 Route::get('/',[ProductController::class, 'index']);
+Route::get('/test',[ProductController::class, 'msg']);
+

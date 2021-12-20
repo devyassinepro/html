@@ -19,6 +19,9 @@ class ProductController extends Controller
         return view('index');
     }
 
+    public function msg(){
+        return view('test');
+    }
     /**
      * Show the form for creating a new resource.
      *

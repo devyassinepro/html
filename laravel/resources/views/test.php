@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Laravel test</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -23,7 +23,5 @@
     <body class="antialiased">
      <h2>Touzani Home</h2>
      <p>All test here Hello mother fucker yes </p>
-
-     <a href="test">Test Link </a>
     </body>
 </html>
